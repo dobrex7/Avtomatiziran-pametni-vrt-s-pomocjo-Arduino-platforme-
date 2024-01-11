@@ -1,2 +1,2 @@
-# Avtomatiziran-pametni-vrt-s-pomocjo-Arduino-platforme-
-projekt, v katerem avtomatizacija pametnega vrta poteka preko Arduina, vključeni so različni moduli in senzorji
+# I2C LiquidCrystal LCD Display Arduino-
+Vključena je programska koda, ter slike za povezavo I2C LCD Displaya.
